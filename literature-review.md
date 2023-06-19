@@ -1,6 +1,6 @@
-# Literature Review on intersection of LLMs and Lecuture Note Generation
+# Literature Review on Video Question Answering
 
-This list contains a collection of papers investigating lecture notes generation with the aid of LLMs.
+This list contains a collection of papers investigating video question answering.
 
 ## Table of Contents
 
