@@ -22,4 +22,4 @@ You can cite this repository using the following BibTeX entry:
 
 ## Table of Contents
 
-- [Lecture Note Generation](https://github.com/SinaElahimanesh/Literature-Review-LLMs-LectureNotes/blob/main/literature-review.md)
+- [Video Question Answering](https://github.com/SinaElahimanesh/Literature-Review-Video-Question-Answering/blob/main/literature-review.md)
