@@ -16,7 +16,7 @@ You can cite this repository using the following BibTeX entry:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/SinaElahimanesh/Literature-Review-Video-Question-Answering}}
+  howpublished = {\url{https://github.com/SinaElahimanesh/Literature-Review-Video-Accessibility}}
 }
 ```
 
