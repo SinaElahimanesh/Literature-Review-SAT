@@ -7,7 +7,7 @@ This list contains a collection of papers investigating video accessibility.
 - [Challenges of Video Accessibility for BLV Users](Challenges-of-Video-Accessibility-for-BLV-Users)
 - [Video Accessibility for BLV Users](Video-Accessibility-for-BLV-Users)
 - [Video Accessibility for Hearing-Impaired Users](Video-Accessibility-for-Hearing-Impaired-Users)
-- [Video Description: Datasets and Models](Video-Description:-Datasets-and-Models)
+- [Video Description: Datasets and Models](Video-Description-:-Datasets-and-Models)
 - [Video Question Answering](Video-Question-Answering)
 - [Image Question Answering](Image-Question-Answering)
 - [Voice Question Answering](Voice-Question-Answering)
