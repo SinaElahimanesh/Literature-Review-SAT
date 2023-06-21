@@ -29,7 +29,6 @@ This list contains a collection of papers investigating video accessibility.
 - [Impact of accessibility barriers on the mood of blind, low-vision and sighted users](https://www.sciencedirect.com/science/article/pii/S1877050914000490)
 - [What Makes Videos Accessible to Blind and Visually Impaired People?](https://dl.acm.org/doi/abs/10.1145/3411764.3445233)
 - [Human-AI Systems for Video Accessibility](https://search.proquest.com/openview/56c6289ebf6a5d4a4c6d22af77d2169a/1?pq-origsite=gscholar&cbl=18750&diss=y)
-- [Effective Web Interface Design and Development for Video Accessibility Challenges](https://youdescribe.org/assets/img/creditPage/895Report_Poorva.pdf)
 
   
 ## Video Accessibility for BLV Users
