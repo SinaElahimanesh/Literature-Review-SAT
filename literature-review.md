@@ -26,7 +26,6 @@ This list contains a collection of papers investigating Self-Attachment Therapy.
 - [Preliminary evaluation of the engagement and effectiveness of a mental health chatbot](https://www.frontiersin.org/articles/10.3389/fdgth.2020.576361/full)
 - [Assessing the usability of a chatbot for mental health care](https://link.springer.com/chapter/10.1007/978-3-030-17705-8_11)
 - [Co-developing a mental health and wellbeing chatbot with and for young people](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.606041/full)
-- 
 
   
 ## Digital Psychotherapy
