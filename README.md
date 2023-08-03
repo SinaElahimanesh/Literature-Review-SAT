@@ -22,4 +22,4 @@ You can cite this repository using the following BibTeX entry:
 
 ## Table of Contents
 
-- [Video Accessibility](https://github.com/SinaElahimanesh/Literature-Review-Video-Accessibility/edit/main/literature-review.md)
+- [Self-Attachment Therapy](https://github.com/SinaElahimanesh/Literature-Review-SAT/edit/main/literature-review.md)
