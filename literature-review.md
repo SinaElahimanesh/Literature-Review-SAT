@@ -3,10 +3,18 @@
 This list contains a collection of papers investigating Self-Attachment Therapy.
 
 ## Table of Contents
+- [Chatbots](#Chatbots)
 - [Applications of ChatBot in Mental Health Support](#Applications-of-ChatBot-in-Mental-Health-Support)
 - [Digital Psychotherapy](#Digital-Psychotherapy)
 - [Self-Attachment Technique (SAT)](#Self-Attachment-Technique-(SAT))
+- [FAQ Chatbots](#FAQ-Chatbots)
 
+
+## Chatbots
+- [An overview of chatbot technology](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31?ref=blog.min.io)
+- [A tool of conversation: Chatbot](https://www.researchgate.net/profile/Menal-Dahiya/publication/321864990_A_Tool_of_Conversation_Chatbot/links/5a360b02aca27247eddea031/A-Tool-of-Conversation-Chatbot.pdf)
+- [CHATBOT: Architecture, design, & development](https://www.academia.edu/download/57035006/CHATBOTthesisfinal.pdf)
+- [Different measurement metrics to evaluate a chatbot system](https://aclanthology.org/W07-0313.pdf)
 
 
 ## Applications of ChatBot in Mental Health Support
@@ -56,4 +64,11 @@ This list contains a collection of papers investigating Self-Attachment Therapy.
 - [Usability evaluation of an immersive virtual reality platform for self-attachment psychotherapy](http://ibrahimghaznavi.com/paper/CMH2019.pdf)
 
 
+## FAQ Chatbots
+- [FAQ (Frequently Asked Questions) ChatBot for Conversation](https://www.researchgate.net/profile/Farhana-Sethi/publication/345177573_FAQ_Frequently_Asked_Questions_ChatBot_for_Conversation/links/5fa01fa8458515b7cfb2fb82/FAQ-Frequently-Asked-Questions-ChatBot-for-Conversation.pdf)
+- [Using Chatbots to Easily Create Interactive and Intelligent FAQ Webpages.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=19401833&AN=94267092&h=zLYdcBprMigBsB53wHRIpjVASiKKRllTUaUHVFUKxDtCfh%2FXo0e8qhv3l38DWJ%2B4LjrODUaqZiljClWtFvKYxA%3D%3D&crl=c)
+- [FAQ chatbot and inclusive learning in massive open online courses](https://www.sciencedirect.com/science/article/pii/S0360131521002724)
+- [Automated thai-faq chatbot using rnn-lstm](https://ieeexplore.ieee.org/abstract/document/8712781/)
+- [Chatbot for university related FAQs](https://ieeexplore.ieee.org/abstract/document/8126057/)
+- [More than FAQ! Chatbot taxonomy for business-to-business customer services](https://link.springer.com/chapter/10.1007/978-3-030-68288-0_12)
 
