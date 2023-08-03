@@ -1,6 +1,6 @@
-# Literature Review on Video Accessibility
+# Literature Review on Self-Attachment Therapy
 
-This list contains a collection of papers investigating video accessibility.
+This list contains a collection of papers investigating Self-Attachment Therapy.
 
 ## Table of Contents
 - [Video Accessibility Challenges](#Video-Accessibility-Challenges)
@@ -14,14 +14,18 @@ This list contains a collection of papers investigating video accessibility.
 
 
 
-## Video Accessibility Challenges
+## Applications of ChatBot in Mental Health Support
 
-- [Effective Web Interface Design and Development for Video Accessibility Challenges](https://youdescribe.org/assets/img/creditPage/895Report_Poorva.pdf)
-- [Web videos–concerns about accessibility based on user centered design](https://www.sciencedirect.com/science/article/pii/S1877050914000544)
-- [Web content accessibility guidelines 1.0](https://dl.acm.org/doi/abs/10.1145/379537.379550)
-- [A survey on multi-access edge computing applied to video streaming: Some research issues and challenges](https://ieeexplore.ieee.org/abstract/document/9374553/)
-- [CrossA11y: Identifying Video Accessibility Issues via Cross-modal Grounding](https://dl.acm.org/doi/abs/10.1145/3526113.3545703)
-- [Why Is Video Accessibility Important?](https://www.journals.ala.org/index.php/ltr/article/view/7525)
+- [Hi, can I help? Exploring how to design a mental health chatbot for youths](https://www.duo.uio.no/handle/10852/79337)
+- [Chatbot for Depressed People](https://3arsh12o1h6x.cdn.shift8web.ca/articles/v2/i7/UIJRTV2I70025.pdf)
+- [Robo: A counselor chatbot for opioid addicted patients](https://dl.acm.org/doi/abs/10.1145/3421515.3421525)
+- [Development of NLP-integrated intelligent web system for E-mental health](https://www.hindawi.com/journals/cmmm/2021/1546343/)
+- [Psychiatric Chatbot for COVID-19 Using Machine Learning Approaches](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003122401-8/psychiatric-chatbot-covid-19-using-machine-learning-approaches-priyanka-jain-subhash-tatale-nivedita-bhirud-sanket-sonje-apurva-kirdatt-mihir-gune-jain)
+- [A mobile application for mental health care during covid-19 pandemic: Development and usability evaluation with system usability scale](https://link.springer.com/chapter/10.1007/978-3-030-68133-3_4)
+- [Tough times, extraordinary care: A critical assessment of chatbot-based digital mental healthcare solutions for older persons to fight against pandemics like covid-19](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_68)
+- [When the social becomes non-human: young people's perception of social support in chatbots](https://dl.acm.org/doi/abs/10.1145/3411764.3445318)
+- [COVIBOT: A Smart Chatbot for Assistance and E-Awareness during COVID-19 Pandemic](https://ieeexplore.ieee.org/abstract/document/9842423/)
+- 
 
   
 ## Challenges of Video Accessibility for BLV Users
